@@ -1,0 +1,12 @@
+### cmake ###
+/build/
+
+### dev tools ###
+/.cache/
+/.clangd
+/.direnv/
+/.envrc
+/compile_commands.json
+
+### nix ###
+/result
